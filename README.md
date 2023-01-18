@@ -1,4 +1,4 @@
-![logo](https://github.com/maurya07777/maurya07777/blob/main/Manish%20Mourya8741.png)
+
 <h1 align="center">Hi 👋, I'm Manish Mourya</h1>
 <h3 align="center">I am coding enthusiast.</h3>
 <img align="center"alt="coding"width="800"src="https://miro.medium.com/v2/resize:fit:4800/0*0O5n9x6pzlJ5qLkC.gif">
